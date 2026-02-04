@@ -1,0 +1,11 @@
+Question 6 – Text Metrics Script
+
+This file contains explanations for each command executed while solving Question 6.
+
+I created an input.txt file containing sample text to analyze word metrics using the script.
+
+I used tr to separate words, awk to calculate word lengths, and sort, uniq, and wc to compute unique word counts and other metrics.
+
+I used chmod to make the metrics.sh script executable.
+
+I executed the script and verified that it correctly displayed the longest word, shortest word, average word length, and number of unique words.

@@ -1,0 +1,9 @@
+command: ./metrics.sh
+output: Longest word:
+shortest
+Shortest word:
+
+Average word length:
+3.92593
+Total number of unique words:
+20
