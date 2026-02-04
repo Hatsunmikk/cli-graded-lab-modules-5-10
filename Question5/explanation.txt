@@ -1,0 +1,12 @@
+Question 5 – Directory Comparison Script
+
+This file contains explanations for each command executed while solving Question 5.
+
+I created sample files in dirA and dirB to test files that are common between directories and files that exist only in one directory.
+
+I wrote a script to compare the contents of two directories by listing unique files and checking whether common files have identical content using the cmp command.
+
+I used chmod to make the sync.sh script executable.
+
+I executed the script and verified that it correctly identified files unique to each directory and compared the contents of common files.
+
