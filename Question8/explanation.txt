@@ -1,0 +1,16 @@
+Question 8 – Background File Movement Script
+
+This file contains explanations for each command executed while solving Question 8.
+
+I created a test directory with multiple files to demonstrate moving files in the background.
+
+I wrote a script that moves files into a backup directory using background processes and displays the PID of each move operation.
+The script waits for all background processes to complete before exiting.
+
+I used chmod to make the bg_move.sh script executable.
+
+I executed the script and observed that each file move ran in the background with its own process ID.
+
+I verified that all files were successfully moved into the backup directory.
+
+I ran the script without arguments and confirmed that it displayed a proper usage error message.

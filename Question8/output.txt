@@ -1,0 +1,6 @@
+command: ./bg_move.sh testdir
+output: Script PID: 2814
+Moved file1.txt with PID 2816
+Moved file2.txt with PID 2818
+Moved file3.txt with PID 2820
+All background processes completed.
