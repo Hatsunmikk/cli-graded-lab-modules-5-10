@@ -1,0 +1,23 @@
+commands(s): echo "Vowels only:"
+cat vowels.txt
+output: Vowels only:
+aeiou
+
+____
+
+commands(s): echo "Consonants only:"
+cat consonants.txt
+output: Consonants only:
+sky
+bcdf
+why
+crypt
+
+____
+
+
+command(s): echo "Mixed words:"
+cat mixed.txt
+output: Mixed words:
+hello
+queue

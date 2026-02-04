@@ -1,0 +1,13 @@
+Question 7 – Word Pattern Classification
+
+This file contains explanations for each command executed while solving Question 7.
+
+I created an input.txt file containing words with different vowel and consonant patterns to test the script.
+
+I normalized the input text to lowercase words and used grep with regular expressions to classify words into vowel-only, consonant-only, and mixed patterns.
+
+I used chmod to make the patterns.sh script executable.
+
+I executed the script to generate vowel, consonant, and mixed word lists.
+
+I verified that words were correctly classified into vowel-only, consonant-only, and mixed categories while ignoring case.
