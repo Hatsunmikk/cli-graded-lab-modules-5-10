@@ -1,0 +1,5 @@
+This program creates a parent process that registers handlers for SIGTERM and SIGINT. 
+Two child processes are created to send different signals to the parent after specific delays.
+
+On compilation and execution, the signal handling program runs. 
+The parent process runs indefinitely until it receives signals from child processes, demonstrating custom handling of SIGTERM and SIGINT.

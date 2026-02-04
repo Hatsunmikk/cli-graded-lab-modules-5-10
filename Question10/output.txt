@@ -1,0 +1,4 @@
+command: ./signal_handling
+output: Parent process running. PID: 2561
+
+Parent received SIGTERM signal (15). Exiting gracefully.
