@@ -1,3 +1,14 @@
 Question 1 – analyze.sh
 
 This file contains explanations for each command executed while solving Question 1.
+
+I created the analyze.sh script to accept exactly one command-line argument.
+The script checks whether the input is a file or a directory and performs the required analysis accordingly.
+
+I used the chmod command to give execute permission to the script so it can be run directly.
+
+I executed the script using a file as input and observed that it correctly displayed the number of lines, words, and characters.
+
+I ran the script with a directory path and confirmed that it displayed the total number of files and .txt files.
+
+I executed the script without providing any arguments and verified that an appropriate error message was displayed.

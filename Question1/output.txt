@@ -1,0 +1,13 @@
+command : ./analyze.sh analyze.sh
+output: 22  89 474 analyze.sh
+
+____
+
+command : ./analyze.sh .
+output : Total files: 3
+        Text files: 2
+
+____
+
+command : ./analyze.sh
+output : Error: Exactly one argument is required.
