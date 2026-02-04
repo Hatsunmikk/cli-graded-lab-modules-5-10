@@ -1,0 +1,7 @@
+command: ./zombie_prevention
+output: Child process created with PID: 2432
+Child process created with PID: 2433
+Child process created with PID: 2434
+Parent cleaned up child process with PID: 2432
+Parent cleaned up child process with PID: 2433
+Parent cleaned up child process with PID: 2434

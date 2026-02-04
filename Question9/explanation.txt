@@ -1,0 +1,7 @@
+Question 9 – Zombie Process Prevention
+
+This file contains explanations for each command executed while solving Question 9.
+
+I switched from gitbash to wsl due to restrictions in gcc compilation. 
+
+The parent process waits for each child to terminate and prints the PID of every child it cleans, preventing zombie processes.
