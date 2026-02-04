@@ -1,0 +1,16 @@
+Question 4 – Email Cleaner Script
+
+This file contains explanations for each command executed while solving Question 4.
+
+I created an emails.txt file containing both valid and invalid email addresses to test the email cleaner script.
+
+I used grep with a regular expression to separate valid and invalid email addresses and redirected the results to different files.
+I then used sort and uniq to remove duplicate entries from the valid email list.
+
+I used chmod to make the emailcleaner.sh script executable.
+
+I executed the email cleaner script to generate valid and invalid email lists.
+
+I verified the contents of valid.txt and invalid.txt and confirmed that emails were correctly classified and duplicates were removed.
+
+

@@ -1,0 +1,15 @@
+command(s): echo "Valid emails:"
+cat valid.txt
+output: Valid emails:
+alice@yahoo.com
+$ echo "Valid emails: "  cat valid.txt
+Valid emails:  cat valid.txt
+
+____
+
+command(s): echo "Invalid emails:"
+cat invalid.txt
+output: Invalid emails:
+bob@company.org
+invalidemail.com
+test@123.com

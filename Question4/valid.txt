@@ -1,0 +1,4 @@
+alice@yahoo.com
+john123@gmail.com
+mark99@outlook.com
+sara@domain.com
