@@ -1,0 +1,3 @@
+Question 1 – analyze.sh
+
+This file contains explanations for each command executed while solving Question 1.
