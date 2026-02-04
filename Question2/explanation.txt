@@ -1,0 +1,16 @@
+Question 2 – Log File Analyzer
+
+This file contains explanations for each command executed in Question 2.
+
+I created a sample log file to test the log analyzer script with different log levels.
+
+I wrote a shell script that validates the input log file, counts different log message levels using grep, and extracts the most recent ERROR entry.
+The script also generates a summary report file with the current date.
+
+I used chmod to make the log analyzer script executable.
+
+I executed the script with a valid log file and verified that it correctly displayed log counts and generated the summary report.
+
+I ran the script without providing a log file and confirmed that it displayed a proper usage error message.
+
+I tested the script with a non-existent file and verified that it handled the error gracefully.

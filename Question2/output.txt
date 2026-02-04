@@ -1,0 +1,20 @@
+command: ./log_analyzer.sh system.log
+output: Log Summary Report
+------------------
+Total entries: 4
+INFO messages: 1
+WARNING messages: 1
+ERROR messages: 2
+
+Most recent ERROR:
+2025-01-12 10:17:10 ERROR Network timeout
+
+____
+
+command: ./log_analyzer.sh
+output: Usage: ./log_analyzer.sh <logfile>
+
+____
+
+command: ./log_analyzer.sh missing.log
+output: Error: File does not exist or is not readable.
