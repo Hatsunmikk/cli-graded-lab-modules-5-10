@@ -1,0 +1,11 @@
+Question 3 – Student Result Validation
+
+This file contains explanations for each command executed while solving Question 3.
+
+I created a marks.txt file containing student roll numbers, names, and marks in three subjects for testing the script.
+
+I wrote a shell script that reads student records line by line, checks marks against the passing criteria, and categorizes students based on their results.
+
+I used the chmod command to make the validate_results.sh script executable.
+
+I executed the script and verified that it correctly identified students who passed all subjects and those who failed in exactly one subject.

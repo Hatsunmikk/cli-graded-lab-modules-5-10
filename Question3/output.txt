@@ -1,0 +1,16 @@
+command: ./validate_results.sh
+output:  : integer expression expected4: [: 80
+Alice passed all subjects
+: integer expression expected4: [: 60
+Bob failed in exactly one subject
+: integer expression expected4: [: 92
+Charlie passed all subjects
+: integer expression expected4: [: 40
+: integer expression expected4: [: 70
+Eva failed in exactly one subject
+-----------------------
+Students passed all subjects: 2
+Students failed one subject: 2
+
+
+
